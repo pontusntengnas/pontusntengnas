@@ -1,16 +1,39 @@
-### Hi there 👋
+### Pontus Schuster Tengnäs (coder, father, husband, runner and golfer) 👨‍💻
 
-<!--
-**pontusntengnas/pontusntengnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a flexible full-stack developer with a primary focus on .NET and web development. 
+What I love about software development is the fact that there is always something new to learn and explore.
 
-Here are some ideas to get you started:
+## Technologies 💻
+* C#
+* .NET
+* Node.js
+* Golang
+* Swift
+* GraphQL
+* React
+* JavaScript
+* TypeScript
+* SQL
+* iOS
+* Android
+* Xamarin.Forms
+* Xamarin.Android
+* HTML
+* CSS
+* Git
+* Unit-testing
+* UI-testing
+* AWS
+* Xcode
+* CI/CD
+* Azure
+* Devops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Location 📍
+Gothenburg, Sweden.
+
+## Contact me 💬
+* [LinkedIn](https://www.linkedin.com/in/pontus-nilsson-tengn%C3%A4s/)
+* [Website](https://pontusntengnas.github.io/)
+* [Apple AppStore](https://itunes.apple.com/se/developer/pontus-nilsson-tengnas/id1356267707)
+* [StackOverflow](https://stackoverflow.com/users/8639272/pontusnt)
