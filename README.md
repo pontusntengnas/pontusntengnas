@@ -1,9 +1,9 @@
-### Pontus Schuster Tengnäs (coder, father, husband, runner and golfer) 👨‍💻
+## Pontus Schuster Tengnäs (coder, father, husband, runner and golfer) 👨‍💻
 
 I am a flexible full-stack developer with a primary focus on .NET and web development. 
 What I love about software development is the fact that there is always something new to learn and explore.
 
-## Technologies 💻
+### Technologies 💻
 * C#
 * .NET
 * Node.js
@@ -29,10 +29,10 @@ What I love about software development is the fact that there is always somethin
 * Azure
 * Devops
 
-## Location 📍
+### Location 📍
 Gothenburg, Sweden.
 
-## Contact me 💬
+### Contact me 💬
 * [LinkedIn](https://www.linkedin.com/in/pontus-nilsson-tengn%C3%A4s/)
 * [Website](https://pontusntengnas.github.io/)
 * [Apple AppStore](https://itunes.apple.com/se/developer/pontus-nilsson-tengnas/id1356267707)
