@@ -20,7 +20,6 @@ What I love about software development is the fact that there is always somethin
 * Xamarin.Android
 * HTML
 * CSS
-* Git
 * Unit-testing
 * UI-testing
 * AWS
