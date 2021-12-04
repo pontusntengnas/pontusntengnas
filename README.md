@@ -33,6 +33,6 @@ Gothenburg, Sweden.
 
 ### Contact me 💬
 * [LinkedIn](https://www.linkedin.com/in/pontus-nilsson-tengn%C3%A4s/)
-* [Website](https://pontusntengnas.github.io/)
+* [Website](https://pst-web.vercel.app/)
 * [Apple AppStore](https://itunes.apple.com/se/developer/pontus-nilsson-tengnas/id1356267707)
 * [StackOverflow](https://stackoverflow.com/users/8639272/pontusnt)
