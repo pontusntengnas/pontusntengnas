@@ -1,4 +1,4 @@
-## Pontus Schuster Tengnäs (coder, father, husband, runner and golfer) 👨‍💻
+## Pontus Schuster Tengnäs 👨‍💻
 
 I am a flexible full-stack developer with a primary focus on .NET and web development. 
 What I love about software development is the fact that there is always something new to learn and explore.
