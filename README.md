@@ -3,31 +3,6 @@
 I am a flexible full-stack developer with a primary focus on .NET and web development. 
 What I love about software development is the fact that there is always something new to learn and explore.
 
-### Technologies 💻
-* C#
-* .NET
-* Node.js
-* Golang
-* Swift
-* GraphQL
-* React
-* JavaScript
-* TypeScript
-* SQL
-* iOS
-* Android
-* Xamarin.Forms
-* Xamarin.Android
-* HTML
-* CSS
-* Unit-testing
-* UI-testing
-* AWS
-* Xcode
-* CI/CD
-* Azure
-* Devops
-
 ### Location 📍
 Gothenburg, Sweden.
 
