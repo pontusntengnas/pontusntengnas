@@ -1,6 +1,6 @@
 ## Pontus Schuster Tengnäs 👨‍💻
 
-I am a flexible full-stack developer with a primary focus on .NET and web development. 
+I am a flexible full-stack developer with a primary focus on .NET and mobile app development. 
 What I love about software development is the fact that there is always something new to learn and explore.
 
 ### Location 📍
