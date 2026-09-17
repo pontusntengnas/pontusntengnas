@@ -7,7 +7,7 @@ What I love about software development is the fact that there is always somethin
 Gothenburg, Sweden.
 
 ### 💬 Contact me
-* [LinkedIn](https://www.linkedin.com/in/pontus-nilsson-tengn%C3%A4s)
+* [LinkedIn](https://www.linkedin.com/in/pontus-schuster-tengnas)
 * [Website](https://www.schustertengnas.com)
 * [Apple AppStore](https://itunes.apple.com/se/developer/pontus-nilsson-tengnas/id1356267707)
 * [StackOverflow](https://stackoverflow.com/users/8639272/pontusnt)
